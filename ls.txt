@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 1 silve 197609 0 10월 22 14:44 ./
+drwxr-xr-x 1 silve 197609 0 10월 22 14:43 ../
+drwxr-xr-x 1 silve 197609 0 10월 22 14:43 .git/
+-rw-r--r-- 1 silve 197609 0 10월 22 14:44 ls.txt
